@@ -10,7 +10,7 @@ An individual practical **Internal Assessment** project developed for the Comput
 - **Email**: [akshayoriginal19@gmail.com](mailto:akshayoriginal19@gmail.com)
 - **GitHub Profile**: [ttps://github.com/akshayoriginal19-ux](ttps://github.com/akshayoriginal19-ux)
 - **Live Deployed Portfolio (Vercel)**: [https://portflio-steel-tau.vercel.app/](https://portflio-steel-tau.vercel.app/)
-- **Live Deployed Portfolio (GitHub Pages)**: [ttps://github.com/akshayoriginal19-ux](ttps://github.com/akshayoriginal19-ux)
+- **Live Deployed Portfolio (GitHub Pages)**: [https://github.com/akshayoriginal19-ux](https://github.com/akshayoriginal19-ux)
 
 ---
 
